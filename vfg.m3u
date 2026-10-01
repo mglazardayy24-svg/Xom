@@ -7,5 +7,8 @@ https://ava002.xyz/upload/ava.m3u8
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 8" tvg-id="Channel" tvg-logo="https://raw.githubusercontent.com/mglazardayy24-svg/Xom/main/4.png" group-title="Kurdish",Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="Kurdmax" tvg-id="Kurdmax" tvg-logo="https://raw.githubusercontent.com/mglazardayy24-svg/Xom/main/5.png" group-title="Kurdish",Kurdmax
+https://ava002.xyz/upload/ava.m3u8
+https://www.kurdmax.tv/live-stream
 
 

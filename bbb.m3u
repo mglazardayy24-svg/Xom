@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rudaw" tvg-logo="https://example.com/logos/rudaw.png" group-title="Kurdish",Rudaw TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="kurdsat" tvg-logo="https://example.com/logos/kurdsat.png" group-title="Kurdish",KurdSat
+https://stream-url-for-kurdsat.m3u8
+
+#EXTINF:-1 tvg-id="beinsports1" tvg-logo="https://example.com/logos/bein1.png" group-title="Sport",beIN Sports 1
+https://stream-url.m3u8
+
+#EXTINF:-1 tvg-id="spacetoon" tvg-logo="https://example.com/logos/spacetoon.png" group-title="Kids",Spacetoon
+https://stream-url.m3u8

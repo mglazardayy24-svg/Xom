@@ -3,3 +3,5 @@
 https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
 #EXTINF:-1 tvg-name="Payam" tvg-id="Rudaw" tvg-logo="https://raw.githubusercontent.com/mglazardayy24-svg/Xom/main/payam.png" group-title="Kurdish",Payam
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-name="AVA" tvg-id="AVA" tvg-logo="https://raw.githubusercontent.com/mglazardayy24-svg/Xom/main/download.png" group-title="Kurdish",AVA
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8https://ava001.xyz/upload/ava.m3u8

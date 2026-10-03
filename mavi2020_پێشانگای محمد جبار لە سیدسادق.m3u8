@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0,Saidsadq
+#EXTGRP:CHANNELS
+https://www.kurdmax.tv/live-stream
+#EXTINF:0,Kurdmax TV
+#EXTGRP:CHANNELS
+http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807658.ts
+#EXTINF:0,AVA TV
+#EXTGRP:CHANNELS
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:0,Rudaw TV
+#EXTGRP:CHANNELS
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:0,ZNAR TV
+#EXTGRP:CHANNELS
+https://live20.bozztv.com/giatv/giatv-halabja88tv/halabja88tv/playlist.m3u8
+#EXTINF:0,Zhin TV
+#EXTGRP:CHANNELS
+https://183.bozztv.com/giatv/giatv-zhinfilm/zhinfilm/playlist.m3u8
+#EXTINF:0,Kelga TV
+#EXTGRP:CHANNELS
+https://lbgo.bozztv.com/ssh101/live/Kelga/playlist.m3u8
+#EXTINF:0,Speda Drama TV
+#EXTGRP:CHANNELS
+https://speda2.site/upload/images/spedadrama.m3u8
+#EXTINF:0,Animal Box TV
+#EXTGRP:CHANNELS
+https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
+#EXTINF:0,Nat Gio Wild
+#EXTGRP:CHANNELS
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:0,Reklam
+#EXTGRP:CHANNELS
+https://ia601409.us.archive.org/25/items/vid-20260919-031449-288/VID_20260919_031449_288.mp4
